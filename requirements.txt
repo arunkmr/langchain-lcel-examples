@@ -1,0 +1,43 @@
+# Core
+langchain
+langchain-community
+langchain-core
+langchain-text-splitters
+
+# LLM providers
+langchain-openai
+langchain-groq
+openai
+python-dotenv
+
+# Notebook
+ipykernel
+
+# Document loaders
+pypdf
+pymupdf
+bs4
+unstructured
+pytube
+youtube_transcript_api
+
+# Web + tools
+arxiv
+wikipedia
+validators==0.28.1
+numexpr
+duckduckgo_search
+
+# Vector databases (keep only 2)
+chromadb
+faiss-cpu
+
+# Embeddings
+sentence-transformers
+huggingface_hub
+
+# Database
+mysql-connector-python
+SQLAlchemy
+pandas
+duckdb
