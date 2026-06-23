@@ -58,3 +58,9 @@ Open and run:
 simplellmLCEL.ipynb
 
 for experimentation with LCEL concepts.
+
+## 📸 API Demo
+
+Below is the running FastAPI Swagger UI showing LCEL chain execution:
+
+![LCEL API Demo](assets/api-demo.png)
